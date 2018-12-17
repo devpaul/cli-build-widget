@@ -47,7 +47,7 @@
     ]
   },
   "devDependencies": {
-    "@dojo/cli": "^4.0.0",
+    "@dojo/cli": "5.0.0-alpha.2",
     "@dojo/scripts": "~3.0.1",
     "@types/clean-webpack-plugin": "0.1.2",
     "@types/execa": "0.8.0",
@@ -75,6 +75,7 @@
     "cpx": "~1.5.0",
     "execa": "0.8.0",
     "husky": "^0.14.3",
+    "jsonschema": "1.2.4",
     "lint-staged": "6.0.0",
     "mockery": "2.1.0",
     "npm-run-all": "~4.1.3",
